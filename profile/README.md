@@ -12,7 +12,7 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
   * SCSS
   * BEM
 * JavaScript
-  * Overview
+  * [Overview](https://github.com/mentoria-unasp/learning-javascript)
   * TypeScript
 * Back End
   * [Node](https://github.com/mentoria-unasp/learning-node)
