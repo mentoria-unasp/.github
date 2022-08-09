@@ -20,7 +20,7 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
 * Webpack
   * Overview
 * Bibliotecas e Frameworks
-  * React (https://github.com/mentoria-unasp/learning-react)
+  * [React](https://github.com/mentoria-unasp/learning-react)
   * Integração com a API
 * Cloud
   * Github Pages
