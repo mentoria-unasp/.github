@@ -15,19 +15,17 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
   * Overview
   * TypeScript
 * Back End
-  * Node
-  * PHP
+  * [Node](https://github.com/mentoria-unasp/learning-node)
   * Integração com SQL
 * Webpack
   * Overview
 * Bibliotecas e Frameworks
-  * React 
-  * Angular
+  * React (https://github.com/mentoria-unasp/learning-react)
   * Integração com a API
 * Cloud
-  * EC2
-  * Route53
-  * Bucket S3
+  * Github Pages
+  * Heroku
+  * Vercel
 
 ## Mercado de Trabalho
 * Portfólio
@@ -37,7 +35,6 @@ Nesse repositório veremos um pouco sobre a proposta da mentoria e alguns temas 
 * Open Source
 
 ## Projetos
-* Todo list
 * App de Finanças
 
 ## Possíveis Convidados
